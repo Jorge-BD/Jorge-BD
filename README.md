@@ -24,7 +24,7 @@ Passionate about technology since childhood—especially video games, understand
 ## 🧑‍💻 Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=sql,cpp,java,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,linux" height="40"/>
 </div>
 
 
