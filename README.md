@@ -23,9 +23,11 @@ Passionate about technology since childhood—especially video games, understand
 
 ## 🧑‍💻 Skills & Tools
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jorge-BD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorge-BD&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<div>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge-BD&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-BD&layout=compact)
+
+
 </div>
 
 <div align="center">
