@@ -24,6 +24,7 @@ Passionate about technology since childhood—especially video games, understand
 ## 🧑‍💻 Skills & Tools
 
 <div>
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge-BD&show_icons=true&theme=radical)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-BD&layout=compact)
